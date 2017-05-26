@@ -1,0 +1,66 @@
+//all logos are CC by SA 3.0 
+[
+{
+	"sub_group" : "make_based" ,
+	"programming_language" : "" ,
+	"logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" ,
+	"tool_name" : "make" , 
+	"command" : "make [-einpqrst] [-f makefile]... [-k|-S] [macro=value...] [target_name...]"
+}
+,
+{
+	"sub_group" : "build_script_generation" ,
+	"programming_language" : "" ,
+	"logo" : "" ,
+	"tool_name" : "configure" , 
+	"command" : "./configure"
+}
+,
+{
+	"sub_group" : "non_make_based" ,
+	"programming_language" : "Java, C, C++" ,
+	"logo" : "http://antinstaller.sourceforge.net/manual/images/ant_logo_large.gif" ,
+	"tool_name" : "Apache ANT" , 
+	"command" : "install, init, all"
+}
+,
+{
+	"sub_group" : "non_make_based" ,
+	"programming_language" : "" ,
+	"logo" : "http://www.scala-sbt.org/assets/typesafe_sbt_svg.svg" ,
+	"tool_name" : "Scala Simple Build Tool" , 
+	"command" : "compile"
+}
+,
+{
+	"sub_group" : "non_make_based" ,
+	"programming_language" : "MS Visual Studio, C++" ,
+	"logo" : "http://www.eitcafe.com/wp-content/uploads/2016/07/msbuild.jpg" ,
+	"tool_name" : "MS Build" , 
+	"command" : "MSBuild.exe MyProj.proj /property:Configuration=Debug , cl /EHsc hello.cpp"
+}
+,
+{
+	"sub_group" : "non_make_based" ,
+	"programming_language" : "Ruby" ,
+	"logo" : "" ,
+	"tool_name" : "Rake" , 
+	"command" : "rake"
+}
+,
+{
+	"sub_group" : "" ,
+	"programming_language" : "XML(Project Object Model)" ,
+	"logo" : "https://maven.apache.org/images/maven-logo-black-on-white.png" ,
+	"tool_name" : "Maven" , 
+	"command" : "mvn compile"
+}
+,
+{
+	"sub_group" : "non_make_based" ,
+	"programming_language" : "Python" ,
+	"logo" : "http://scons.org/images/SCons.png" ,
+	"tool_name" : "Scons" , 
+	"command" : "scons foo.out"
+}
+]
