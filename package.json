@@ -1,0 +1,21 @@
+[
+{
+	"tool_name" : "Tar" ,
+	"common_common_command" : "tar -cvf afiles.tar file1 file2 file3"
+}
+,
+{
+	"tool_name" : "Zip" , 
+	"common_command" : ""
+}
+,
+{
+	"tool_name" : "Wheel" , 
+	"common_command" : "python setup.py bdist_wheel"
+}
+,
+{
+	"tool_name" : "MSI" , 
+	"common_command" : ""
+}
+]
