@@ -1,0 +1,34 @@
+[{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "C", "tool_name": "Check", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "C", "tool_name": "AceUnit", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "C#", "tool_name": "csUnit", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "C#", "tool_name": "Visual Studio Unit Testing Framework", "logo": "http://www.qatestingtools.com/sites/default/files/tools_shortcuts/Visual%20Studio%20Unite%20Testing%20Framework%20150.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "C++", "tool_name": "Parasoft C/C++test", "logo": "https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/5703/1899/thumbnail.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "C++", "tool_name": "CppUnit", "logo": "http://www.howcsharp.com/img/0/9/cppunit-300x225.jpg", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "Haskell", "tool_name": "HUnit", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "Haskell", "tool_name": "QuickCheck", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "Java", "tool_name": "JUnit", "logo": "http://www.swtestacademy.com/wp-content/uploads/2015/11/Junit_Logo.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "Java", "tool_name": "Jtest", "logo": "http://www.bj-zhzt.com/datacache/pic/390_260_b91e82190f00f190d60d78bf53f6352b.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "JavaScript", "tool_name": "Jasmine", "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1028px-Logo_jasmine.svg.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "JavaScript", "tool_name": "Unit.js", "logo": "https://upload.wikimedia.org/wikipedia/en/e/ec/Unit_JS_logo.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "PHP", "tool_name": "SimpleTest", "logo": "http://www.simpletest.org/images/simpletest-logo.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "PHP", "tool_name": "PHPUnit", "logo": "http://4.bp.blogspot.com/-xrvHPUBqc7Y/Ucxe5ZYDVYI/AAAAAAAAAVE/cXtFm0NcE9A/s500/logo.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "Python", "tool_name": "unittest", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "Python", "tool_name": "doctest", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "R", "tool_name": "RUnit", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "R", "tool_name": "testthat", "logo": "https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/13597/small/1466619792/rstudio-hex-testthat.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "Scala", "tool_name": "ScalaTest", "logo": "http://media.tumblr.com/ec3c87095fe8a21216c516606afffdcc/tumblr_inline_mtskzebUcv1s17bu5.jpg", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Unit Testing", "prog_lang": "Scala", "tool_name": "ScUnit", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Continuous Integration", "prog_lang": "all", "tool_name": "Travis CI", "logo": "https://cdn.travis-ci.com/images/logos/TravisCI-Mascot-1-20feeadb48fc2492ba741d89cb5a5c8a.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Continuous Integration", "prog_lang": "Java", "tool_name": "Jenkins", "logo": "https://www.cloudbees.com/sites/default/files/Jenkins_8.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Continuous Integration", "prog_lang": "Java", "tool_name": "TeamCity", "logo": "http://workingwithdevs.com/wp-content/uploads/2014/05/TeamCity-logo.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Continuous Integration", "prog_lang": "all", "tool_name": "Bamboo", "logo": "https://www.vectorcast.com/sites/default/themes/vectorsoftware/images/Bamboo-logo_clipped.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Continuous Integration", "prog_lang": "all", "tool_name": "Codeship", "logo": "http://rixrix.github.io/ci-talk-codeship/images/logo_codeship_colour.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Continuous Integration", "prog_lang": "all", "tool_name": "CircleCI", "logo": "https://circleci.com/circleci-logo-stacked-fb.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Continuous Integration", "prog_lang": "all", "tool_name": "Buildbot", "logo": "https://buildbot.net/img/nut.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Linting", "prog_lang": "Python", "tool_name": "Pylint", "logo": "https://carlchenet.com/wp-content/uploads/2013/08/pylint-logo.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Linting", "prog_lang": "Python", "tool_name": "Flake8", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Linting", "prog_lang": "Python", "tool_name": "PyChecker", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Linting", "prog_lang": "Java", "tool_name": "Checkstyle", "logo": "http://checkstyle.sourceforge.net/images/header-checkstyle-logo.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Linting", "prog_lang": "Java", "tool_name": "Coverity", "logo": "https://2015.appsecusa.org/c/wp-content/uploads/2014/07/coveritylogo.png", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Linting", "prog_lang": "C/C++", "tool_name": "Lint", "logo": "None", "common_cmd": "None"}
+,{"group": "Quality Assurance", "sub_group": "Linting", "prog_lang": "C/C++", "tool_name": "Cppcheck", "logo": "https://cdn.portableapps.com/CppcheckPortable_128.png", "common_cmd": "None"}]
